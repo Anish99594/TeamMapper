@@ -8,6 +8,12 @@ A full-stack, production-ready application for managing user-team mappings with 
 ![Express](https://img.shields.io/badge/Express-4-black)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
+## 📸 Dashboard Preview
+
+![Dashboard](./Screenshot%202026-01-14%20at%206.07.48%20PM.png)
+
+*Modern dashboard interface with real-time statistics, analytics, and team mapping management*
+
 ## 🚀 Features
 
 ### Frontend
