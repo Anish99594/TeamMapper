@@ -10,9 +10,13 @@ A full-stack, production-ready application for managing user-team mappings with 
 
 ## 📸 Dashboard Preview
 
-![Dashboard](./Screenshot%202026-01-14%20at%206.07.48%20PM.png)
+<div align="center">
+  <img src="screenshots/dashboard.png" alt="TeamMapper Dashboard" width="800"/>
+</div>
 
-*Modern dashboard interface with real-time statistics, analytics, and team mapping management*
+<p align="center">
+  <em>Modern dashboard interface with real-time statistics, analytics, and team mapping management</em>
+</p>
 
 ## 🚀 Features
 
